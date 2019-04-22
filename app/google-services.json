@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "581203416858",
+    "firebase_url": "https://loginlessonapp.firebaseio.com",
+    "project_id": "loginlessonapp",
+    "storage_bucket": "loginlessonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581203416858:android:ccc0d3c1f09e632e",
+        "android_client_info": {
+          "package_name": "com.example.android.fbrv2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581203416858-v8tigt5vc0gftvs2tln4s6lsfp2uvm3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.fbrv2019",
+            "certificate_hash": "60b268cdde188b9dbe865262ac6fcb77e59044ab"
+          }
+        },
+        {
+          "client_id": "581203416858-ci411mejf700v121qe27vdf6vovhpmr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ11gap3Zwu2aJhxjm8oi2ylM8dSxfwUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581203416858-ci411mejf700v121qe27vdf6vovhpmr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581203416858:android:a144dd2bef4931fc",
+        "android_client_info": {
+          "package_name": "com.example.android.loginlessonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581203416858-fm71d4m1cak1gdmink2u9lpl8m8bk0c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.loginlessonapp",
+            "certificate_hash": "60b268cdde188b9dbe865262ac6fcb77e59044ab"
+          }
+        },
+        {
+          "client_id": "581203416858-ci411mejf700v121qe27vdf6vovhpmr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ11gap3Zwu2aJhxjm8oi2ylM8dSxfwUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581203416858-ci411mejf700v121qe27vdf6vovhpmr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
