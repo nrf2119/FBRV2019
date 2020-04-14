@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         FirebaseApp.initializeApp(this);
 
+        //change for github
         database = FirebaseDatabase.getInstance();
         auth = FirebaseAuth.getInstance();
 
@@ -84,6 +85,11 @@ public class MainActivity extends AppCompatActivity {
         userReference.child("presidents").push().setValue(newPrez);
         //presidents.add(newPrez);
         recyclerView.setAdapter(presidentAdapter);
+
+    }
+
+    public void signOut(View view) {
+        auth.signOut();
 
     }
 }
